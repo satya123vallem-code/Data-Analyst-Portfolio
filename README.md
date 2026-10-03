@@ -53,23 +53,29 @@ An interactive Sales Analysis Dashboard created using Microsoft Excel.
 
 ---
 
-### 2. Expense & Budget Analysis
 
+
+### 2. Sales Performance Dashboard
 **Status:** 🔄 Planned
 
-Planned project covering:
+An interactive Excel dashboard focused on analyzing sales performance through KPIs and visualizations.
 
-* Budget vs Actual
-* Expense Analysis
-* Monthly Trends
-* Variance Analysis
-* SUMIFS
-* COUNTIFS
-* XLOOKUP
-* Pivot Tables
-* Interactive Dashboard
+**Key areas covered:**
+- Total Revenue
+- Total Orders
+- Total Quantity Sold
+- Average Order Value
+- Revenue by Month
+- Revenue by Region
+- Revenue by Product Category
+- Revenue by Sales Channel
+- Top 5 Products by Revenue
+- Interactive Slicers
+- Timeline
+- Pivot Tables
+- Pivot Charts
 
----
+🔗 [View Project](./Excel/02-Sales-Performance-Dashboard)
 
 # 🗄️ SQL Projects
 
